@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Banker\'sAlogrithm</string>
+    <string-array name="process">
+        <item>P1</item>
+        <item>P2</item>
+        <item>P3</item>
+
+    </string-array>
+</resources>
